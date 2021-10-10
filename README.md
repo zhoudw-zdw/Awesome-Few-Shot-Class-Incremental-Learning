@@ -4,6 +4,8 @@
 ## Papers
 
   ### 2021
+-  Generalized and Incremental Few-Shot Learning by Explicit Learning and Calibration without Forgetting(**ICCV21**) [[paper](http://arxiv.org/abs/2108.08165)]   
+
 -  Few-shot incremental learning with continually evolved classifiers(**CVPR21**) [[paper](https://openaccess.thecvf.com/content/CVPR2021/html/Zhang_Few-Shot_Incremental_Learning_With_Continually_Evolved_Classifiers_CVPR_2021_paper.html)] 
 
 - Self-Promoted Prototype Refinement for Few-Shot Class-Incremental Learning(**CVPR21**) [[paper](https://openaccess.thecvf.com/content/CVPR2021/html/Zhu_Self-Promoted_Prototype_Refinement_for_Few-Shot_Class-Incremental_Learning_CVPR_2021_paper.html)]
