@@ -2,9 +2,15 @@
 
 
 ## Papers
-
-  ### 2021
   
+  ### 2022 
+- Forward Compatible Few-Shot Class-Incremental Learning(**CVPR22**) [[paper](https://arxiv.org/abs/2203.06953)] [[Code](https://github.com/zhoudw-zdw/CVPR22-Fact)] 
+  
+  ### 2021
+-  MgSvF: Multi-Grained Slow vs. Fast Framework for Few-Shot Class-Incremental Learning(**TPAMI21**) [[paper](https://arxiv.org/abs/2006.15524)] 
+-  Generalized and Incremental Few-Shot Learning by Explicit Learning and Calibration without Forgetting(**ICCV21**) [[paper](https://arxiv.org/abs/2108.08165)] 
+-  Synthesized Feature Based Few-Shot Class-Incremental Learning on a Mixture of Subspaces(**ICCV21**) [[paper](https://openaccess.thecvf.com/content/ICCV2021/html/Cheraghian_Synthesized_Feature_Based_Few-Shot_Class-Incremental_Learning_on_a_Mixture_of_ICCV_2021_paper.html)] 
+-  GP-Tree: A Gaussian Process Classifier for Few-Shot Incremental Learning(**ICML21**) [[paper](http://proceedings.mlr.press/v139/achituve21a/achituve21a.pdf)] 
 -  Overcoming Catastrophic Forgetting in Incremental Few-Shot Learning by Finding Flat Minima(**NeurIPS21**) [[paper]( https://openreview.net/forum?id=ALvt7nXa2q)] 
 -  Generalized and Incremental Few-Shot Learning by Explicit Learning and Calibration without Forgetting(**ICCV21**) [[paper](http://arxiv.org/abs/2108.08165)]   
 -  Few-shot incremental learning with continually evolved classifiers(**CVPR21**) [[paper](https://openaccess.thecvf.com/content/CVPR2021/html/Zhang_Few-Shot_Incremental_Learning_With_Continually_Evolved_Classifiers_CVPR_2021_paper.html)] 
