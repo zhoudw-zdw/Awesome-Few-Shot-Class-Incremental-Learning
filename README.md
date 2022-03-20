@@ -12,7 +12,6 @@
 -  Synthesized Feature Based Few-Shot Class-Incremental Learning on a Mixture of Subspaces(**ICCV21**) [[paper](https://openaccess.thecvf.com/content/ICCV2021/html/Cheraghian_Synthesized_Feature_Based_Few-Shot_Class-Incremental_Learning_on_a_Mixture_of_ICCV_2021_paper.html)] 
 -  GP-Tree: A Gaussian Process Classifier for Few-Shot Incremental Learning(**ICML21**) [[paper](http://proceedings.mlr.press/v139/achituve21a/achituve21a.pdf)] 
 -  Overcoming Catastrophic Forgetting in Incremental Few-Shot Learning by Finding Flat Minima(**NeurIPS21**) [[paper]( https://openreview.net/forum?id=ALvt7nXa2q)] 
--  Generalized and Incremental Few-Shot Learning by Explicit Learning and Calibration without Forgetting(**ICCV21**) [[paper](http://arxiv.org/abs/2108.08165)]   
 -  Few-shot incremental learning with continually evolved classifiers(**CVPR21**) [[paper](https://openaccess.thecvf.com/content/CVPR2021/html/Zhang_Few-Shot_Incremental_Learning_With_Continually_Evolved_Classifiers_CVPR_2021_paper.html)] 
 - Self-Promoted Prototype Refinement for Few-Shot Class-Incremental Learning(**CVPR21**) [[paper](https://openaccess.thecvf.com/content/CVPR2021/html/Zhu_Self-Promoted_Prototype_Refinement_for_Few-Shot_Class-Incremental_Learning_CVPR_2021_paper.html)]
 - Semantic-Aware Knowledge Distillation for Few-Shot Class-Incremental Learning (**CVPR21**) [[paper](https://openaccess.thecvf.com/content/CVPR2021/html/Cheraghian_Semantic-Aware_Knowledge_Distillation_for_Few-Shot_Class-Incremental_Learning_CVPR_2021_paper.html)]
