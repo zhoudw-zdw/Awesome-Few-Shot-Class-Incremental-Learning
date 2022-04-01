@@ -4,6 +4,7 @@
 ## Papers
   
   ### 2022 
+- Few-Shot Class-Incremental Learning by Sampling Multi-Phase Tasks(**arXiv22**)[[paper](https://arxiv.org/abs/2203.17030)]
 - Forward Compatible Few-Shot Class-Incremental Learning(**CVPR22**) [[paper](https://arxiv.org/abs/2203.06953)] [[Code](https://github.com/zhoudw-zdw/CVPR22-Fact)] 
   
   ### 2021
