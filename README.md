@@ -4,12 +4,14 @@
 ## Papers
   
   ### 2022 
-- Few-Shot Class-Incremental Learning by Sampling Multi-Phase Tasks(**arXiv22**)[[paper](https://arxiv.org/abs/2203.17030)]
+- Few-Shot Class-Incremental Learning by Sampling Multi-Phase Tasks(**TPAMI22**)[[paper](https://arxiv.org/abs/2203.17030)][[Code](https://github.com/zhoudw-zdw/TPAMI-Limit)] 
 - Forward Compatible Few-Shot Class-Incremental Learning(**CVPR22**) [[paper](https://arxiv.org/abs/2203.06953)] [[Code](https://github.com/zhoudw-zdw/CVPR22-Fact)]
 - MetaFSCIL: A Meta-Learning Approach for Few-Shot Class Incremental Learning (**CVPR22**) [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Chi_MetaFSCIL_A_Meta-Learning_Approach_for_Few-Shot_Class_Incremental_Learning_CVPR_2022_paper.pdf)] 
 - Constrained Few-shot Class-incremental Learning (**CVPR22**) [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Hersche_Constrained_Few-Shot_Class-Incremental_Learning_CVPR_2022_paper.pdf)] 
+- Subspace Regularizers for Few-Shot Class Incremental Learning (**ICLR22**) [[paper](https://openreview.net/forum?id=boJy41J-tnQ)] 
   
   ### 2021
+- Learning adaptive classifiers synthesis for generalized few-shot learning(**IJCV21**) [[paper](https://arxiv.org/pdf/1906.02944)] [[Code](https://github.com/Sha-Lab/aCASTLE)] 
 -  MgSvF: Multi-Grained Slow vs. Fast Framework for Few-Shot Class-Incremental Learning(**TPAMI21**) [[paper](https://arxiv.org/abs/2006.15524)] 
 -  Generalized and Incremental Few-Shot Learning by Explicit Learning and Calibration without Forgetting(**ICCV21**) [[paper](https://arxiv.org/abs/2108.08165)] 
 -  Synthesized Feature Based Few-Shot Class-Incremental Learning on a Mixture of Subspaces(**ICCV21**) [[paper](https://openaccess.thecvf.com/content/ICCV2021/html/Cheraghian_Synthesized_Feature_Based_Few-Shot_Class-Incremental_Learning_on_a_Mixture_of_ICCV_2021_paper.html)] 
