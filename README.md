@@ -9,6 +9,7 @@
 - MetaFSCIL: A Meta-Learning Approach for Few-Shot Class Incremental Learning (**CVPR22**) [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Chi_MetaFSCIL_A_Meta-Learning_Approach_for_Few-Shot_Class_Incremental_Learning_CVPR_2022_paper.pdf)] 
 - Constrained Few-shot Class-incremental Learning (**CVPR22**) [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Hersche_Constrained_Few-Shot_Class-Incremental_Learning_CVPR_2022_paper.pdf)] 
 - Subspace Regularizers for Few-Shot Class Incremental Learning (**ICLR22**) [[paper](https://openreview.net/forum?id=boJy41J-tnQ)] 
+- Few-Shot Class-Incremental Learning via Entropy-Regularized Data-Free Replay (**ECCV22**) [[paper](https://arxiv.org/abs/2207.11213?context=cs)] 
   
   ### 2021
 - Learning adaptive classifiers synthesis for generalized few-shot learning(**IJCV21**) [[paper](https://arxiv.org/pdf/1906.02944)] [[Code](https://github.com/Sha-Lab/aCASTLE)] 
