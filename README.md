@@ -3,6 +3,12 @@
 
 ## Papers
   
+  ### 2023
+- On the Soft-Subnetwork for Few-Shot Class Incremental Learning (**ICLR23**)[[paper]( https://openreview.net/pdf?id=z57WK5lGeHd)]
+- Neural Collapse Inspired Feature-Classifier Alignment for Few-Shot Class-Incremental Learning (**ICLR23**)[[paper]( https://openreview.net/pdf?id=y5W8tpojhtJ)]
+- Warping the Space: Weight Space Rotation for Class-Incremental Few-Shot Learning (**ICLR23**)[[paper]( https://openreview.net/pdf?id=kPLzOfPfA2l)]
+
+
   ### 2022 
 - Few-Shot Class-Incremental Learning by Sampling Multi-Phase Tasks(**TPAMI22**)[[paper](https://arxiv.org/abs/2203.17030)][[Code](https://github.com/zhoudw-zdw/TPAMI-Limit)] 
 - Forward Compatible Few-Shot Class-Incremental Learning(**CVPR22**) [[paper](https://arxiv.org/abs/2203.06953)] [[Code](https://github.com/zhoudw-zdw/CVPR22-Fact)]
