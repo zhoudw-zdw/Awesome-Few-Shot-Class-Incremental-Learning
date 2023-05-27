@@ -7,6 +7,7 @@
 - On the Soft-Subnetwork for Few-Shot Class Incremental Learning (**ICLR23**)[[paper]( https://openreview.net/pdf?id=z57WK5lGeHd)]
 - Neural Collapse Inspired Feature-Classifier Alignment for Few-Shot Class-Incremental Learning (**ICLR23**)[[paper]( https://openreview.net/pdf?id=y5W8tpojhtJ)]
 - Warping the Space: Weight Space Rotation for Class-Incremental Few-Shot Learning (**ICLR23**)[[paper]( https://openreview.net/pdf?id=kPLzOfPfA2l)]
+- Few-Shot Class-Incremental Learning via Class-Aware Bilateral Distillation (**CVPR23**)[[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhao_Few-Shot_Class-Incremental_Learning_via_Class-Aware_Bilateral_Distillation_CVPR_2023_paper.pdf)]
 
 
   ### 2022 
