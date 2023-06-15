@@ -8,6 +8,8 @@
 - Neural Collapse Inspired Feature-Classifier Alignment for Few-Shot Class-Incremental Learning (**ICLR23**)[[paper]( https://openreview.net/pdf?id=y5W8tpojhtJ)]
 - Warping the Space: Weight Space Rotation for Class-Incremental Few-Shot Learning (**ICLR23**)[[paper]( https://openreview.net/pdf?id=kPLzOfPfA2l)]
 - Few-Shot Class-Incremental Learning via Class-Aware Bilateral Distillation (**CVPR23**)[[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhao_Few-Shot_Class-Incremental_Learning_via_Class-Aware_Bilateral_Distillation_CVPR_2023_paper.pdf)]
+- GKEAL: Gaussian Kernel Embedded Analytic Learning for Few-shot Class Incremental Task (**CVPR23**)[[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Zhuang_GKEAL_Gaussian_Kernel_Embedded_Analytic_Learning_for_Few-Shot_Class_Incremental_CVPR_2023_paper.html)]
+- Learning With Fantasy: Semantic-Aware Virtual Contrastive Constraint for Few-Shot Class-Incremental Learning (**CVPR23**)[[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Song_Learning_With_Fantasy_Semantic-Aware_Virtual_Contrastive_Constraint_for_Few-Shot_Class-Incremental_CVPR_2023_paper.html)]
 
 
   ### 2022 
