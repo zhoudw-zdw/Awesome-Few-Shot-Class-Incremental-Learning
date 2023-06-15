@@ -1,5 +1,6 @@
 # Awesome Few-Shot Class-Incremental Learning
 
+*Pull requests are welcome if you find any interesting paper is missing.*
 
 ## Papers
   
@@ -46,13 +47,10 @@
  - Incremental few-shot learning with attention attractor networks(**NeurIPS19**) [[paper](https://arxiv.org/abs/1810.07218)] 
 
 ### 2018
-- Dynamic few-shot visual learning without forgetting(**CVPR18**) [[paper](https://openaccess.thecvf.com/content_cvpr_2018/html/Gidaris_Dynamic_Few-Shot_Visual_CVPR_2018_paper.html)] 
+- Dynamic few-shot visual learning without forgetting(**CVPR18**) [[paper](https://openaccess.thecvf.com/content_cvpr_2018/html/Gidaris_Dynamic_Few-Shot_Visual_CVPR_2018_paper.html)]
 
+<div align="center">
+  
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=zhoudw-zdw.FSCIL-repo&left_color=green&right_color=red)
 
-
-
-
-
-
-## Feel free to contact me if you find any interesting paper is missing.
-
+</div>
